@@ -1,0 +1,14 @@
+.form{
+	margin:auto;
+	border-style:solid;
+	width:50%;
+
+}
+
+.marg-input{
+	margin-left: 0px;
+}
+
+.block{
+	display: inline-block;
+}
